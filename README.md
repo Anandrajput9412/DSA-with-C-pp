@@ -13,4 +13,8 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Anandrajput9412/DSA-with-C-pp/tree/master/0016-3sum-closest) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Anandrajput9412/DSA-with-C-pp/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
