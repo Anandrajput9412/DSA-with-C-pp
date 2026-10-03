@@ -26,4 +26,8 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anandrajput9412/DSA-with-C-pp/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Anandrajput9412/DSA-with-C-pp/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
